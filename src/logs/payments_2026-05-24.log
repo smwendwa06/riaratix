@@ -1,0 +1,2 @@
+[2026-05-24T19:42:08.962Z] [STK_INITIATED] {"payment_id":"3370a177-7f23-40e4-acfc-0c062efa7dc6","ticket_id":"a37ce64b-9300-4a40-b737-06ecf8d03b64","phone":"254706395924","amount":1200,"event_title":"Cultural Gala 2026","tier_name":"VIP","checkout_request_id":"ws_CO_24052026224209051706395924"}
+[2026-05-24T19:42:15.708Z] [PAYMENT_FAILED] {"checkout_request_id":"ws_CO_24052026224209051706395924","payment_id":"3370a177-7f23-40e4-acfc-0c062efa7dc6","result_code":1032}
